@@ -2,6 +2,11 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
 
+ <p align=center>
+    <image width="570" heigth="570" src=''>
+  </p>
+
+
 ## Bem vindo! 👋
 
 Obrigado pela visita e fique a vontade!
@@ -12,16 +17,14 @@ james_bassani@yahoo.com
 
 # O Projeto
 
+O projeto Corpus SPA é uma página web onde todo layout foi estilizado usando SASS, do inglês Syntactically Awesome Style Sheets, significa, numa tradução livre, “folhas de estilo sintaticamente impressionantes”.
 
+Para Criar um código mais semântico seu HTML foi desenvolvido utilizando as tags header, main e footer. Dentro da tag header criamos 
+o menu de navegação, dentro da tag main encontram-se os textos e as imagens e dentro da tag footer está o nosso rodapé.
 
- 
-  
-  <p align=center>
-    <image width="570" heigth="570" src=''>
-  </p>
+Com o SASS fica mais fácil manter, atualizar e editar o código. Durante a estilização do projeto trabalhamos com a criação de variáveis,
+funções e aninhamento de classes. Além disso, através do Sass, modularizamos suas folhas de estilos criando partials. 
 
-  
-  
 
 # Tecnologias:
 
