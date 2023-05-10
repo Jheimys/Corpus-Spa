@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
 
  <p align=center>
-    <image width="570" heigth="570" src=''>
+    <image width="670" heigth="670" src='https://github.com/Jheimys/assets/blob/master/corpus_spa.png'>
   </p>
 
 
